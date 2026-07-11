@@ -1,9 +1,15 @@
-👋 Hi, I'm Mayank Pradhan
-🎓 B.Tech Cse(IoT-CS-BC) Student at CGC University, Mohali
-💻 Passionate about coding, problem-solving, and building Python projects
-🚀 Currently exploring IoT, machine learning, and backend development
-🔧 I love turning ideas into real-world applications using Python and other modern tools
-📫 Let's connect and collaborate!
+# Hi, I'm Mayank Pradhan 👋
+
+### Data Analytics Enthusiast | CSE (IoT) Student | Developer
+
+I'm a B.Tech CSE (IoT) student at CGC University, focused on Data Analytics and building practical, real-world technology solutions.
+
+Currently strengthening my skills in Python, SQL, Pandas, and data analysis while also leveraging my development background to build impactful projects.
+
+- 📊 Exploring Data Analytics & Data-Driven Problem Solving
+- 🐍 Learning Python, Pandas & NumPy
+- 🗄️ Strengthening SQL & Database Skills
+- 🚀 Building practical projects and continuously improving
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankpradhan48@gmail.com) 
