@@ -63,10 +63,11 @@ A financial dashboard designed to visualize and manage financial information thr
 
 ---
 
-### 🎮 [Python Mini Games](https://github.com/Mayank2014l/python-mini-games)
-A collection of interactive Python mini-games including Hangman, Quiz, Dice Roller, and more.
+### 📖 [Peblo — Interactive Story Buddy](https://github.com/Mayank2014l/peblo_story_buddy)
 
-**Tech Stack:** Python, Programming Fundamentals
+A Flutter-based interactive storytelling application with TTS narration, dynamic quizzes, and event-driven state management.
+
+**Tech Stack:** Flutter, Dart, Riverpod, Text-to-Speech
 
 ---
 
@@ -79,10 +80,11 @@ A collection of interactive Python mini-games including Hangman, Quiz, Dice Roll
 
 ## 🎯 Current Focus
 
-- 📊 Building strong foundations in Data Analytics
-- 🐍 Improving Python, Pandas, and NumPy skills
-- 🗄️ Practicing SQL and database problem-solving
-- 🚀 Building data-driven and real-world projects
+- 📊 Advancing my skills in **Data Analytics and Data-Driven Problem Solving**
+- 🐍 Working with **Python, Pandas, NumPy, and Data Analysis workflows**
+- 🗄️ Strengthening **SQL and Database Management**
+- 📈 Exploring **Data Visualization and Business Insights**
+- 🚀 Building practical projects that solve real-world problems
 
 ---
 
