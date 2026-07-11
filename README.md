@@ -42,41 +42,40 @@ Currently strengthening my skills in Python, SQL, Pandas, and data analysis whil
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Resume Analyzer
-An AI-powered resume analysis platform designed to evaluate resumes, identify skill gaps, and provide actionable insights for improving job readiness.
+### 🤖 [AI-Powered Resume Tracker](https://github.com/Mayank2014l/ai-powered-resume-tracker)
+A full-stack AI resume analysis platform with job matching, resume insights, and career-focused features.
 
-**Tech Stack:** AI Integration, Python, Web Technologies
-
----
-
-### 🎙️ EchoSync — AI Meeting Orchestrator
-A voice-first AI meeting platform designed to improve meeting coordination, interaction, and intelligent workflow automation.
-
-**Tech Stack:** AI Integration, Voice Technology, Web Development
+**Tech Stack:** TypeScript, AI Integration, Full-Stack Development
 
 ---
 
-### 🎓 CampusFeed — Academic Management Platform
-A scalable academic platform for managing student feeds, calendars, marks transparency, and campus-related information.
+### 🧾 [BillFlow — Invoice Billing SaaS](https://github.com/Mayank2014l/billflow-invoice-billing-saas)
+A SaaS-based invoice and billing platform designed to simplify invoice creation and business billing workflows.
 
-**Tech Stack:** NestJS, Prisma, PostgreSQL
+**Tech Stack:** TypeScript, SaaS Architecture, Web Development
 
 ---
 
-### 📖 Peblo — AI Story Buddy
-An interactive AI-powered storytelling application designed to create engaging, imaginative, and personalized story experiences.
+### 📊 [FinTrack Dashboard](https://github.com/Mayank2014l/fintrack-dashboard)
+A financial dashboard designed to visualize and manage financial information through a clean and structured interface.
 
-**Tech Stack:** Flutter, AI Integration
+**Tech Stack:** JavaScript, Data Visualization, Web Development
+
+---
+
+### 🎮 [Python Mini Games](https://github.com/Mayank2014l/python-mini-games)
+A collection of interactive Python mini-games including Hangman, Quiz, Dice Roller, and more.
+
+**Tech Stack:** Python, Programming Fundamentals
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayank2014l&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank2014l&layout=compact&theme=tokyonight&hide_border=true)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayank2014l&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank2014l&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ## 🎯 Current Focus
 
@@ -92,6 +91,10 @@ An interactive AI-powered storytelling application designed to create engaging, 
 I'm open to internships, collaborative projects, and opportunities in **Data Analytics and Software Development**.
 
 Feel free to connect with me on LinkedIn or explore my repositories.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mayank2014l&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
